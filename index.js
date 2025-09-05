@@ -40,7 +40,7 @@ const users = [
     username: "tj",
     name: "TJ Holowaychuk",
     repoCount: 150,
-    location: "Victoria",
+    location: "Victoria", 
   },
 ]; 
 
